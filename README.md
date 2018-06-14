@@ -1,5 +1,8 @@
 # MySQL Workbench Export Laravel 5 Migrations Plugin
 
+### Aqui esta meu tutorial traduzido para Portugues(Brasil) - Renato Lucena
+- http://ws.renatolucena.top/exportar-do-mysql-workbench-para-uma-migracao-do-laravel/
+
 A MySQL Workbench plugin that allows for exporting a model to Laravel 5 migrations that follow PSR-2 coding standards. When exported, each migration is generated and
 saved in it's own, properly named, migration file.
 
